@@ -29,8 +29,8 @@ This project analyzes the price trends of agricultural commodities in India and 
 ---
 
 ## **Datasets Used**
-- **Source:** Government agricultural reports & market data.
-- **File Name:** `farm.csv`
+- **Source:** Agricultural Market Price Data (eNAM Portal) – National Agricultural Market 
+- **File Name:** `Price_Agriculture_commodities_Week.csv.zip`
 - **Key Features:**
   - `State`, `District`, `Market`, `Commodity`, `Arrival Date`, `Min Price`, `Max Price`, `Modal Price`.
 
